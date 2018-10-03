@@ -10,14 +10,8 @@ foreach ($variable as $key => $value) {
 }
 
 
-while($i <= 5):
-    echo "Qualquer coisa!";
-    $i=0;
-    $i++;
-endwhile;
 
-$i=10;
-if($i==10):
+if():
     echo "Olá Mundo";
 endif;
 
