@@ -10,6 +10,6 @@ foreach ($variable as $key => $value) {
 }
 
 $i=10;
-if($i<==10):
+if($i==10):
     echo "Olá Mundo";
 endif;
