@@ -8,3 +8,8 @@ while ( <= 10) {
 foreach ($variable as $key => $value) {
 	# code...
 }
+
+$i=10;
+if($i<==10):
+    echo "Olá Mundo";
+endif;
